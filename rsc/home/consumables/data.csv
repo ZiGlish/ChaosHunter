@@ -1,0 +1,22 @@
+name,cost,img
+Ammo Box,65,ammo.png
+Antidote Shot,55,heal.png
+Big Dynamite Bundle,110,boom.png
+Chaos Bomb,15,sound.png
+Concertina Bomb,48,trap.png
+Dynamite Bundle,75,boom.png
+Dynamite Stick,18,boom.png
+Fire Bomb,18,fire.png
+Flash Bomb,47,light.png
+Frag Bomb,70,boom.png
+Hellfire Bomb,70,fire.png
+Hive Bomb,40,quest.png
+Liquid Fire Bomb,23,fire.png
+Poison Bomb,25,quest.png
+Stamina Shot,40,heal.png
+Sticky Bomb,64,boom.png
+Vitality Shot,75,heal.png
+Waxed Dynamite Stick,24,boom.png
+Weak Antidote Shot,25,heal.png
+Weak Stamina Shot,10,heal.png
+Weak Vitality Shot,10,heal.png

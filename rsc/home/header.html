@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html class="webpage -primary">
+<head>
+  <title>ChaosHunter: Random Loadouts</title>
+  <meta charset="utf-8" />
+  <link rel="icon"          href="/ico" type="image/x-icon">
+  <link rel="stylesheet"    href="/css">
+  <link rel="stylesheet"    href="/css">
+  <script src=/js?common></script>
+  <script src=/js?home></script>
+</head>
+<body>
+  <div id="error-container" style="float: left; width: 0;">
+    <h6 id="error-header"  style="float: left;"></h6>
+    <pre id="error-output"  style="float: left;"></pre>
+  </div>
+  <div id="title-banner" class="container">
+    <h1>
+        Chaos Hunter
+    </h1>
+    <h2>
+        Random Loadout Generator
+    </h2>
+  </div>
+  <div class="container">
+    <button id="roll-button" onclick="chaos()">Roll the dice</button>
+  </div>
+  <div class="container">
+    <div class="results-column">
+      <table id="weapon-results" class="results">
+        <tr class="title-row">
+          <td class="weapon-title" colspan="3"><span data-cost="0" data-size="2">Primary</span></td>
+          <td class="weapon-title" colspan="1"><span data-cost="0" data-size="2">Secondary</span></td>
+        </tr>
+        <tr>
+          <td class="weapon-icon" colspan="3"><img src="/img?blank-3.png"></td>
+          <td class="weapon-icon" colspan="1"><img src="/img?blank-1.png"></td>
+        </tr>
+        <tr class="cost-row">
+          <td colspan="2"><span class="weapon-cost">$0</span> <span class="weapon-ammo">No Ammo</span></td>
+          <td colspan="2"><span class="weapon-cost">$0</span> <span class="weapon-ammo">No Ammo</span></td>
+        </tr>
+        <tr class="lock-row">
+          <td colspan="2"><span class="weapon-lock lock"></span></td>
+          <td colspan="2"><span class="weapon-lock lock"></span></td>
+        </tr>
+        <tr class="slider-row">
+          <td colspan="4"><input id="weapon-slider" type="range" min="0" max="2" value="0" class="slider"></td>
+        </tr>
+      </table>
+    </div>
+    <div class="results-column">
+      <table id="tool-results" class="results">
+        <tr class="title-row">
+          <td class="tool-title"><span data-cost="0">None</span></td>
+          <td class="tool-title"><span data-cost="0">None</span></td>
+          <td class="tool-title"><span data-cost="0">None</span></td>
+          <td class="tool-title"><span data-cost="0">None</span></td>
+        </tr>
+        <tr>
+          <td class="tool-icon"><img src="/img?blank-1.png"></td>
+          <td class="tool-icon"><img src="/img?blank-1.png"></td>
+          <td class="tool-icon"><img src="/img?blank-1.png"></td>
+          <td class="tool-icon"><img src="/img?blank-1.png"></td>
+        </tr>
+        <tr class="cost-row"><td class="tool-cost">$0</td><td class="tool-cost">$0</td><td class="tool-cost">$0</td><td class="tool-cost">$0</td></tr>
+        <tr>
+          <td><span class="tool-lock lock"><img src="/img?lock.png"></span></td>
+          <td><span class="tool-lock lock"><img src="/img?lock.png"></span></td>
+          <td><span class="tool-lock lock"><img src="/img?lock.png"></span></td>
+          <td><span class="tool-lock lock"><img src="/img?lock.png"></span></td>
+        </tr>
+        <tr class="slider-row">
+          <td colspan="4"><input id="tool-slider" type="range" min="0" max="4" value="4" class="slider"></td>
+        </tr>
+      </table>
+    </div>
+    <div class="results-column">
+      <table id="item-results" class="results">
+        <tr id="item-result-titles" class="title-row">
+          <td class="item-title"><span data-cost="0">None</span></td>
+          <td class="item-title"><span data-cost="0">None</span></td>
+          <td class="item-title"><span data-cost="0">None</span></td>
+          <td class="item-title"><span data-cost="0">None</span></td>
+        </tr>
+        <tr>
+          <td class="item-icon"><img src="/img?blank-1.png"></td>
+          <td class="item-icon"><img src="/img?blank-1.png"></td>
+          <td class="item-icon"><img src="/img?blank-1.png"></td>
+          <td class="item-icon"><img src="/img?blank-1.png"></td>
+        </tr>
+        <tr class="cost-row"><td class="item-cost">$0</td><td class="item-cost">$0</td><td class="item-cost">$0</td><td class="item-cost">$0</td></tr>
+        <tr>
+          <td><span class="item-lock lock"><img src="/img?lock.png"></span></td>
+          <td><span class="item-lock lock"><img src="/img?lock.png"></span></td>
+          <td><span class="item-lock lock"><img src="/img?lock.png"></span></td>
+          <td><span class="item-lock lock"><img src="/img?lock.png"></span></td>
+        </tr>
+        <tr class="slider-row">
+          <td colspan="4"><input id="item-slider" type="range" min="0" max="4" value="4" class="slider"></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="container">
+    <button id="options-collapse" class="collapsible" onclick="collapse(this)"><span class="arrow">▷</span><p>Options</p></button>
+    <div id="options-content" class="collapse-content">
+      <table id="option-list" class="list">
+        <tr onclick="toggle('option-qm');">
+          <td><span id="option-qm" class="select-button" data-section="options" data-state="false" >⇌</span></td>
+          <td>Quartermaster Build</td>
+          <td></td>
+        </tr>
+        <tr onclick="toggle('option-fill');">
+          <td><span id="option-fill" class="select-button" data-section="options" data-state="true" >⇌</span></td>
+          <td>Fill All Slots</td>
+          <td></td>
+        </tr>
+        <tr onclick="toggle('option-dupWeap');">
+          <td><span id="option-dupWeap" class="select-button" data-section="options" data-state="false" >⇌</span></td>
+          <td>Allow Duplicate Weapons</td>
+          <td></td>
+        </tr>
+        <tr onclick="toggle('option-dupItem');">
+          <td><span id="option-dupItem" class="select-button" data-section="options" data-state="true" >⇌</span></td>
+          <td>Allow Duplicate Consumables</td>
+          <td></td>
+        </tr>
+      </table>
+    </div>

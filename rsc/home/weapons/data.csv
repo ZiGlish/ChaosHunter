@@ -1,0 +1,73 @@
+name,cost,size,ammo,requires,akimbo,img
+Romero 77,34,3,Shotgun,Rank 1,FALSE,shotgun.png
+Romero 77 Handcannon,26,2,Shotgun,Romero 77,FALSE,shotgun-m.png
+Romero 77 Talon,59,3,Shotgun,Romero 77 Handcannon,FALSE,shotgun.png
+Romero 77 Hatchet,62,2,Shotgun,Romero 77 Talon,FALSE,shotgun-m.png
+Springfield 1866,38,3,Medium,Rank 1,FALSE,rifle.png
+Springfield 1866 Marksman,73,3,Medium,Springfield 1866,FALSE,rifle.png
+Springfield 1866 Compact,33,2,Medium,Springfield 1866 Marksman,FALSE,rifle-m.png
+Springfield 1866 Compact Striker,56,2,Medium,Springfield 1866 Compact,FALSE,rifle-m.png
+Springfield 1866 Compact Deadeye,46,2,Medium,Springfield 1866 Compact Striker,FALSE,rifle-m.png
+Winfield M1873C,75,3,Compact,Rank 1,FALSE,rifle.png
+Winfield M1873C Silencer,55,3,Compact,Winfield M1873C,FALSE,rifle.png
+Winfield M1873C Marksman,56,3,Compact,Winfield M1873C Silencer,FALSE,rifle.png
+Winfield M1873C Vandal,35,2,Compact,Winfield M1873C Marksman,FALSE,rifle-m.png
+Winfield M1873C Vandal Deadeye,56,2,Compact,Winfield M1873C Vandal,FALSE,rifle-m.png
+Combat Axe,5,2,No,Rank 1,FALSE,melee-m.png
+Nagant M1895,24,1,Compact,Rank 1,TRUE,pistol.png
+Nagant M1895 Precision,29,2,Compact,Nagant M1895,FALSE,precision.png
+Nagant M1895 Silencer,53,1,Compact,Nagant M1895 Precision,TRUE,pistol.png
+Nagant M1895 Deadeye,42,2,Compact,Nagant M1895 Silencer,FALSE,precision.png
+Hand Crossbow,44,2,Special,Rank 4,FALSE,crossbow-hand.png
+Hand Crossbow Poison,61,2,Special,Hand Crossbow,FALSE,crossbow-hand.png
+Crossbow,73,3,Special,Hand Crossbow Poison,FALSE,crossbow.png
+Crossbow Explosive,130,3,Special,Crossbow,FALSE,crossbow.png
+Crossbow Shotbolt,150,3,Special,Crossbow Explosive,FALSE,crossbow.png
+Vetterli 71 Karabiner,105,3,Medium,Rank 6,FALSE,rifle.png
+Vetterli 71 Karabiner Deadeye,130,3,Medium,Vetterli 71 Karabiner,FALSE,rifle.png
+Vetterli 71 Karabiner Bayonet,155,3,Medium,Vetterli 71 Karabiner Deadeye,FALSE,rifle.png
+Caldwell Pax,100,1,Medium,Rank 10,TRUE,pistol.png
+Caldwell Pax Claw,125,1,Medium,Caldwell Pax,TRUE,pistol.png
+Machete,18,1,No,Rank 12,FALSE,melee.png
+Martini-Henry IC1,122,3,Long,Rank 16,FALSE,rifle.png
+Martini-Henry IC1 Deadeye,145,3,Long,Martini-Henry IC1,FALSE,rifle.png
+Martini-Henry IC1 Riposte,164,3,Long,Martini-Henry IC1 Deadeye,FALSE,rifle.png
+Martini-Henry IC1 Marksman,173,3,Long,Martini-Henry IC1 Riposte,FALSE,rifle.png
+Caldwell Rival 78,100,3,Shotgun,Rank 18,FALSE,shotgun.png
+Caldwell Rival 78 Handcannon,85,2,Shotgun,Caldwell Rival 78,FALSE,shotgun-m.png
+Caldwell Conversion Pistol,26,1,Compact,Rank 22,TRUE,pistol.png
+Caldwell Conversion Chain Pistol,50,1,Compact,Caldwell Conversion Pistol,TRUE,pistol.png
+Caldwell Conversion Uppercut,275,1,Long,Caldwell Conversion Chain Pistol,TRUE,pistol.png
+Sparks LRR,130,3,Long,Rank 26,FALSE,rifle.png
+Sparks LRR Silencer,150,3,Long,Sparks LRR,FALSE,rifle.png
+Sparks LRR Sniper,199,3,Long,Sparks LRR Silencer,FALSE,rifle.png
+Bornheim No 3,201,1,Compact,Rank 30,TRUE,pistol.png
+Bornheim No 3 Extended,306,1,Compact,Bornheim No 3,TRUE,pistol.png
+Bornheim No 3 Match,224,2,Compact,Bornheim No 3 Extended,FALSE,precision.png
+Nagant M1895 Officer,66,1,Compact,Rank 36,TRUE,pistol.png
+Nagant M1895 Officer Brawler,80,1,Compact,Nagant M1895 Officer,TRUE,pistol.png
+Nagant M1895 Officer Carbine,80,3,Compact,Nagant M1895 Officer Brawler,FALSE,carbine.png
+Winfield M1873,75,3,Compact,Rank 42,FALSE,rifle.png
+Winfield M1873 Aperture,80,3,Compact,Winfield M1873,FALSE,rifle.png
+Winfield M1873 Talon,100,3,Compact,Winfield M1873 Aperture,FALSE,rifle.png
+Winfield M1873 Swift,128,3,Compact,Winfield M1873 Talon,FALSE,rifle.png
+LeMat Mark II Revolver,95,1,Compact,Rank 46,TRUE,pistol.png
+Lebel 1886,397,3,Long,Rank 52,FALSE,rifle.png
+Lebel 1886 Talon,422,3,Long,Lebel 1886,FALSE,rifle.png
+Lebel 1886 Marksman,437,3,Long,Lebel 1886 Talon,FALSE,rifle.png
+Specter 1882,188,3,Shotgun,Rank 58,FALSE,shotgun.png
+Specter 1882 Compact,164,2,Shotgun,Specter 1882,FALSE,shotgun-m.png
+Specter 1882 Bayonet,223,3,Shotgun,Specter 1882 Compact,FALSE,shotgun.png
+Cavalry Saber,60,1,No,Rank 62,FALSE,melee.png
+Dolch 96,750,1,Special,Rank 68,TRUE,pistol.png
+Dolch 96 Precision,790,2,Special,Dolch 96,FALSE,precision.png
+Mosin-Nagant M1891,490,3,Long,Rank 72,FALSE,rifle.png
+Mosin-Nagant M1891 Obrez,290,2,Long,Mosin-Nagant M1891,FALSE,rifle-m.png
+Mosin-Nagant M1891 Bayonet,540,3,Long,Mosin-Nagant M1891 Obrez,FALSE,rifle.png
+Mosin-Nagant M1891 Obrez Mace,310,2,Long,Mosin-Nagant M1891 Bayonet,FALSE,rifle-m.png
+Mosin-Nagant M1891 Sniper,550,3,Long,Mosin-Nagant M1891 Obrez Mace,FALSE,rifle.png
+Mosin-Nagant M1891 Avtomat,1250,3,Long,Mosin-Nagant M1891 Sniper,FALSE,auto.png
+Mosin-Nagant M1891 Obrez Drum,350,2,Long,Mosin-Nagant M1891 Sniper,FALSE,rifle-m.png
+Bomb Lance,199,3,Special,Rank 78,FALSE,lance.png
+Crown n King Auto-5,600,3,Shotgun,Rank 82,FALSE,shotgun.png
+Nitro Express Rifle,1015,3,Special,Rank 88,FALSE,rifle.png

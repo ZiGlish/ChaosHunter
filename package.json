@@ -1,0 +1,31 @@
+{
+  "name": "chaoshunter",
+  "version": "1.1.0",
+  "description": "HUNT: Showdown; Random loadout generator",
+  "main": "chaoshunter.js",
+  "dependencies": {
+    "csv-parser": "^2.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "scripts": {
+    "start": "node chaoshunter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadbouM/ChaosHunter.git"
+  },
+  "author": "ZiG Chad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChadbouM/ChaosHunter/issues"
+  },
+  "homepage": "https://github.com/ChadbouM/ChaosHunter#readme"
+}

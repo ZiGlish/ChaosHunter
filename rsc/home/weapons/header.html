@@ -1,0 +1,14 @@
+    <button type="button" id="weapons-collapse" class="collapsible" onclick="collapse(this)"><span class="arrow">▷</span><p>Weapons</p></button>
+    <div id="weapons-content" class="collapse-content">
+      <table id="weapon-list" class="list">
+        <tr>
+          <th data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>true)">◉<span class="tooltip-text">All (OFF)</span></th>
+          <th data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>x.getAttribute('data-dual') === 'true')">◉<span class="tooltip-text">Dual (OFF)</span></th>
+          <th colspan="2">
+            <span data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>get(x, 'data-size') === 1)"><p>Small</p> ◉<span class="tooltip-text">Small (OFF)</span></span>
+            <span data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>get(x, 'data-size') === 2)"><p>Medium</p> ◉<span class="tooltip-text">Medium (OFF)</span></span>
+            <span data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>get(x, 'data-size') === 3)"><p>Large</p> ◉<span class="tooltip-text">Large (OFF)</span></span>
+          </th>
+          <th></th>
+        </tr>
+      <!-- Checkbox onClick behavior is hacky to compensate for using tr-onclick ... dont judge me ... meanie -->
