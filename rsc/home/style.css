@@ -66,6 +66,10 @@ html {
   font-size: 20px;
   display: inline;
 }
+.group-selector:nth-child(odd) {
+  margin-left: 10%;
+  margin-right: 10%;
+}
 /* || Cursor */
 #roll-button,
 .collapsible,

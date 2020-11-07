@@ -6,7 +6,7 @@
           <th data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>x.getAttribute('data-dual') === 'true')">◉<span class="tooltip-text">Dual (OFF)</span></th>
           <th colspan="2">
             <span data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>get(x, 'data-size') === 1)"><p>Small</p> ◉<span class="tooltip-text">Small (OFF)</span></span>
-            <span data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>get(x, 'data-size') === 2)"><p>Medium</p> ◉<span class="tooltip-text">Medium (OFF)</span></span>
+            <span data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>get(x, 'data-size') === 2 && x.getAttribute('data-dual') === 'false')"><p>Medium</p> ◉<span class="tooltip-text">Medium (OFF)</span></span>
             <span data-state="true" class="group-selector" onclick="toggleGroup(this, (x)=>get(x, 'data-size') === 3)"><p>Large</p> ◉<span class="tooltip-text">Large (OFF)</span></span>
           </th>
           <th></th>
