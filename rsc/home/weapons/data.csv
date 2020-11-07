@@ -12,7 +12,8 @@ Winfield M1873C,75,3,Compact,Rank 1,FALSE,rifle.png
 Winfield M1873C Silencer,55,3,Compact,Winfield M1873C,FALSE,rifle.png
 Winfield M1873C Marksman,56,3,Compact,Winfield M1873C Silencer,FALSE,rifle.png
 Winfield M1873C Vandal,35,2,Compact,Winfield M1873C Marksman,FALSE,rifle-m.png
-Winfield M1873C Vandal Deadeye,56,2,Compact,Winfield M1873C Vandal,FALSE,rifle-m.png
+Winfield M1873C Vandal Striker,39,2,Compact,Winfield M1873C Vandal,FALSE,rifle-m.png
+Winfield M1873C Vandal Deadeye,56,2,Compact,Winfield M1873C Vandal Striker,FALSE,rifle-m.png
 Combat Axe,5,2,No,Rank 1,FALSE,melee-m.png
 Nagant M1895,24,1,Compact,Rank 1,TRUE,pistol.png
 Nagant M1895 Precision,29,2,Compact,Nagant M1895,FALSE,precision.png

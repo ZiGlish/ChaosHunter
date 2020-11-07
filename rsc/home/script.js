@@ -115,7 +115,7 @@ async function chaos() {
   let r;
   // Handles the randomization of an item
   function helperRandom(dups = false, weaps = false) {
-    const f = (x) => !optionFill || get(x, 'data-size') === slots;
+    const f = (x) => (!optionFill && get(x, 'data-size') <= slots) || get(x, 'data-size') === slots;
     // Handles Locked Item slots
     for (let i = 0; i < parseInt(range.value, 10); i += 1) {
       cost += get(titles[i], 'data-cost');
