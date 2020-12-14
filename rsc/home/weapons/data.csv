@@ -29,7 +29,10 @@ Vetterli 71 Karabiner Deadeye,130,3,Medium,Vetterli 71 Karabiner,FALSE,rifle.png
 Vetterli 71 Karabiner Bayonet,155,3,Medium,Vetterli 71 Karabiner Deadeye,FALSE,rifle.png
 Caldwell Pax,100,1,Medium,Rank 10,TRUE,pistol.png
 Caldwell Pax Claw,125,1,Medium,Caldwell Pax,TRUE,pistol.png
-Machete,18,1,No,Rank 12,FALSE,melee.png
+Nagant M1895 Officer,66,1,Compact,Rank 12,TRUE,pistol.png
+Nagant M1895 Officer Brawler,80,1,Compact,Nagant M1895 Officer,TRUE,pistol.png
+Nagant M1895 Officer Carbine,155,3,Compact,Nagant M1895 Officer Brawler,FALSE,carbine.png
+Nagant M1895 Officer Carbine Deadeye,211,3,Compact,Nagant M1895 Officer Carbine,FALSE,carbine.png
 Martini-Henry IC1,122,3,Long,Rank 16,FALSE,rifle.png
 Martini-Henry IC1 Deadeye,145,3,Long,Martini-Henry IC1,FALSE,rifle.png
 Martini-Henry IC1 Riposte,164,3,Long,Martini-Henry IC1 Deadeye,FALSE,rifle.png
@@ -39,19 +42,18 @@ Caldwell Rival 78 Handcannon,85,2,Shotgun,Caldwell Rival 78,FALSE,shotgun-m.png
 Caldwell Conversion Pistol,26,1,Compact,Rank 22,TRUE,pistol.png
 Caldwell Conversion Chain Pistol,50,1,Compact,Caldwell Conversion Pistol,TRUE,pistol.png
 Caldwell Conversion Uppercut,275,1,Long,Caldwell Conversion Chain Pistol,TRUE,pistol.png
+Winfield M1873,75,3,Compact,Rank 20,FALSE,rifle.png
+Winfield M1873 Aperture,80,3,Compact,Winfield M1873,FALSE,rifle.png
+Winfield M1873 Talon,100,3,Compact,Winfield M1873 Aperture,FALSE,rifle.png
+Winfield M1873 Swift,128,3,Compact,Winfield M1873 Talon,FALSE,rifle.png
+Winfield M1873 Musket Bayonet,137,3,Compact,Winfield M1873 Swift,FALSE,rifle.png
+Machete,18,1,No,Rank 24,FALSE,melee.png
 Sparks LRR,130,3,Long,Rank 26,FALSE,rifle.png
 Sparks LRR Silencer,150,3,Long,Sparks LRR,FALSE,rifle.png
 Sparks LRR Sniper,199,3,Long,Sparks LRR Silencer,FALSE,rifle.png
 Bornheim No 3,201,1,Compact,Rank 30,TRUE,pistol.png
 Bornheim No 3 Extended,306,1,Compact,Bornheim No 3,TRUE,pistol.png
 Bornheim No 3 Match,224,2,Compact,Bornheim No 3 Extended,FALSE,precision.png
-Nagant M1895 Officer,66,1,Compact,Rank 36,TRUE,pistol.png
-Nagant M1895 Officer Brawler,80,1,Compact,Nagant M1895 Officer,TRUE,pistol.png
-Nagant M1895 Officer Carbine,80,3,Compact,Nagant M1895 Officer Brawler,FALSE,carbine.png
-Winfield M1873,75,3,Compact,Rank 42,FALSE,rifle.png
-Winfield M1873 Aperture,80,3,Compact,Winfield M1873,FALSE,rifle.png
-Winfield M1873 Talon,100,3,Compact,Winfield M1873 Aperture,FALSE,rifle.png
-Winfield M1873 Swift,128,3,Compact,Winfield M1873 Talon,FALSE,rifle.png
 LeMat Mark II Revolver,95,1,Compact,Rank 46,TRUE,pistol.png
 Lebel 1886,397,3,Long,Rank 52,FALSE,rifle.png
 Lebel 1886 Talon,422,3,Long,Lebel 1886,FALSE,rifle.png
