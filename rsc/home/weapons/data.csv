@@ -3,64 +3,199 @@ Romero 77,34,3,Shotgun,Rank 1,FALSE,shotgun.png
 Romero 77 Handcannon,26,2,Shotgun,Romero 77,FALSE,shotgun-m.png
 Romero 77 Talon,59,3,Shotgun,Romero 77 Handcannon,FALSE,shotgun.png
 Romero 77 Hatchet,62,2,Shotgun,Romero 77 Talon,FALSE,shotgun-m.png
+Romero 77 (Star Shell),44,3,Star Shell,Rank 1,FALSE,shotgun.png
+Romero 77 Handcannon (Star Shell),36,2,Star Shell,Romero 77,FALSE,shotgun-m.png
+Romero 77 Talon (Star Shell),69,3,Star Shell,Romero 77 Handcannon,FALSE,shotgun.png
+Romero 77 Hatchet (Star Shell),72,2,Star Shell,Romero 77 Talon,FALSE,shotgun-m.png
+Romero 77 (Dragon Breath),84,3,Dragon Breath,Rank 1,FALSE,shotgun.png
+Romero 77 Handcannon (Dragon Breath),76,2,Dragon Breath,Romero 77,FALSE,shotgun-m.png
+Romero 77 Talon (Dragon Breath),109,3,Dragon Breath,Romero 77 Handcannon,FALSE,shotgun.png
+Romero 77 Hatchet (Dragon Breath),112,2,Dragon Breath,Romero 77 Talon,FALSE,shotgun-m.png
+Romero 77 (Penny Shot),59,3,Penny Shot,Rank 1,FALSE,shotgun.png
+Romero 77 Handcannon (Penny Shot),51,2,Penny Shot,Romero 77,FALSE,shotgun-m.png
+Romero 77 Talon (Penny Shot),84,3,Penny Shot,Romero 77 Handcannon,FALSE,shotgun.png
+Romero 77 Hatchet (Penny Shot),77,2,Penny Shot,Romero 77 Talon,FALSE,shotgun-m.png
+Romero 77 (Slug),184,3,Slug,Rank 1,FALSE,shotgun.png
+Romero 77 Handcannon (Slug),176,2,Slug,Romero 77,FALSE,shotgun-m.png
+Romero 77 Talon (Slug),209,3,Slug,Romero 77 Handcannon,FALSE,shotgun.png
+Romero 77 Hatchet (Slug),212,2,Slug,Romero 77 Talon,FALSE,shotgun-m.png
 Springfield 1866,38,3,Medium,Rank 1,FALSE,rifle.png
 Springfield 1866 Marksman,73,3,Medium,Springfield 1866,FALSE,rifle.png
 Springfield 1866 Compact,33,2,Medium,Springfield 1866 Marksman,FALSE,rifle-m.png
 Springfield 1866 Compact Striker,56,2,Medium,Springfield 1866 Compact,FALSE,rifle-m.png
 Springfield 1866 Compact Deadeye,46,2,Medium,Springfield 1866 Compact Striker,FALSE,rifle-m.png
+Springfield 1866 (Dumdum),128,3,Dumdum,Rank 1,FALSE,rifle.png
+Springfield 1866 Marksman (Dumdum),163,3,Dumdum,Springfield 1866,FALSE,rifle.png
+Springfield 1866 Compact (Dumdum),123,2,Dumdum,Springfield 1866 Marksman,FALSE,rifle-m.png
+Springfield 1866 Compact Striker (Dumdum),146,2,Dumdum,Springfield 1866 Compact,FALSE,rifle-m.png
+Springfield 1866 Compact Deadeye (Dumdum),136,2,Dumdum,Springfield 1866 Compact Striker,FALSE,rifle-m.png
+Springfield 1866 (Explosive),128,3,Explosive,Rank 1,FALSE,rifle.png
+Springfield 1866 Marksman (Explosive),163,3,Explosive,Springfield 1866,FALSE,rifle.png
+Springfield 1866 Compact (Explosive),123,2,Explosive,Springfield 1866 Marksman,FALSE,rifle-m.png
+Springfield 1866 Compact Striker (Explosive),146,2,Explosive,Springfield 1866 Compact,FALSE,rifle-m.png
+Springfield 1866 Compact Deadeye (Explosive),136,2,Explosive,Springfield 1866 Compact Striker,FALSE,rifle-m.png
 Winfield M1873C,75,3,Compact,Rank 1,FALSE,rifle.png
 Winfield M1873C Silencer,55,3,Compact,Winfield M1873C,FALSE,rifle.png
 Winfield M1873C Marksman,56,3,Compact,Winfield M1873C Silencer,FALSE,rifle.png
 Winfield M1873C Vandal,35,2,Compact,Winfield M1873C Marksman,FALSE,rifle-m.png
 Winfield M1873C Vandal Striker,39,2,Compact,Winfield M1873C Vandal,FALSE,rifle-m.png
 Winfield M1873C Vandal Deadeye,56,2,Compact,Winfield M1873C Vandal Striker,FALSE,rifle-m.png
+Winfield M1873C (Incendiary),125,3,Incendiary,Rank 1,FALSE,rifle.png
+Winfield M1873C Silencer (Incendiary),105,3,Incendiary,Winfield M1873C,FALSE,rifle.png
+Winfield M1873C Marksman (Incendiary),106,3,Incendiary,Winfield M1873C Silencer,FALSE,rifle.png
+Winfield M1873C Vandal (Incendiary),85,2,Incendiary,Winfield M1873C Marksman,FALSE,rifle-m.png
+Winfield M1873C Vandal Striker (Incendiary),89,2,Incendiary,Winfield M1873C Vandal,FALSE,rifle-m.png
+Winfield M1873C Vandal Deadeye (Incendiary),106,2,Incendiary,Winfield M1873C Vandal Striker,FALSE,rifle-m.png
+Winfield M1873C (High Velocity),165,3,High Velocity,Rank 1,FALSE,rifle.png
+Winfield M1873C Silencer (High Velocity),145,3,High Velocity,Winfield M1873C,FALSE,rifle.png
+Winfield M1873C Marksman (High Velocity),146,3,High Velocity,Winfield M1873C Silencer,FALSE,rifle.png
+Winfield M1873C Vandal (High Velocity),125,2,High Velocity,Winfield M1873C Marksman,FALSE,rifle-m.png
+Winfield M1873C Vandal Striker (High Velocity),129,2,High Velocity,Winfield M1873C Vandal,FALSE,rifle-m.png
+Winfield M1873C Vandal Deadeye (High Velocity),146,2,High Velocity,Winfield M1873C Vandal Striker,FALSE,rifle-m.png
 Combat Axe,5,2,No,Rank 1,FALSE,melee-m.png
 Nagant M1895,24,1,Compact,Rank 1,TRUE,pistol.png
 Nagant M1895 Precision,29,2,Compact,Nagant M1895,FALSE,precision.png
 Nagant M1895 Silencer,53,1,Compact,Nagant M1895 Precision,TRUE,pistol.png
 Nagant M1895 Deadeye,42,2,Compact,Nagant M1895 Silencer,FALSE,precision.png
+Nagant M1895 (Poison),59,1,Poison,Rank 1,TRUE,pistol.png
+Nagant M1895 Precision (Poison),64,2,Poison,Nagant M1895,FALSE,precision.png
+Nagant M1895 Silencer (Poison),88,1,Poison,Nagant M1895 Precision,TRUE,pistol.png
+Nagant M1895 Deadeye (Poison),77,2,Poison,Nagant M1895 Silencer,FALSE,precision.png
+Nagant M1895 (High Velocity),114,1,High Velocity,Rank 1,TRUE,pistol.png
+Nagant M1895 Precision (High Velocity),119,2,High Velocity,Nagant M1895,FALSE,precision.png
+Nagant M1895 Silencer (High Velocity),143,1,High Velocity,Nagant M1895 Precision,TRUE,pistol.png
+Nagant M1895 Deadeye (High Velocity),132,2,High Velocity,Nagant M1895 Silencer,FALSE,precision.png
 Hand Crossbow,44,2,Special,Rank 4,FALSE,crossbow-hand.png
-Hand Crossbow Poison,61,2,Special,Hand Crossbow,FALSE,crossbow-hand.png
+Hand Crossbow (Poison),69,2,Poison,Hand Crossbow,FALSE,crossbow-hand.png
+Hand Crossbow (Chaos),54,2,Chaos,Hand Crossbow,FALSE,crossbow-hand.png
+Hand Crossbow (Choke),64,2,Choke,Hand Crossbow,FALSE,crossbow-hand.png
 Crossbow,73,3,Special,Hand Crossbow Poison,FALSE,crossbow.png
-Crossbow Explosive,130,3,Special,Crossbow,FALSE,crossbow.png
-Crossbow Shotbolt,150,3,Special,Crossbow Explosive,FALSE,crossbow.png
+Crossbow (Explosive),143,3,Explosive,Crossbow,FALSE,crossbow.png
+Crossbow (Shotbolt),153,3,Shotbolt,Crossbow Explosive,FALSE,crossbow.png
 Vetterli 71 Karabiner,105,3,Medium,Rank 6,FALSE,rifle.png
 Vetterli 71 Karabiner Deadeye,130,3,Medium,Vetterli 71 Karabiner,FALSE,rifle.png
 Vetterli 71 Karabiner Bayonet,155,3,Medium,Vetterli 71 Karabiner Deadeye,FALSE,rifle.png
+Vetterli 71 Karabiner (Incendiary),165,3,Incendiary,Rank 6,FALSE,rifle.png
+Vetterli 71 Karabiner Deadeye (Incendiary),190,3,Incendiary,Vetterli 71 Karabiner,FALSE,rifle.png
+Vetterli 71 Karabiner Bayonet (Incendiary),215,3,Incendiary,Vetterli 71 Karabiner Deadeye,FALSE,rifle.png
+Vetterli 71 Karabiner (Full Metal Jacket),180,3,Full Metal Jacket,Rank 6,FALSE,rifle.png
+Vetterli 71 Karabiner Deadeye (Full Metal Jacket),205,3,Full Metal Jacket,Vetterli 71 Karabiner,FALSE,rifle.png
+Vetterli 71 Karabiner Bayonet (Full Metal Jacket),230,3,Full Metal Jacket,Vetterli 71 Karabiner Deadeye,FALSE,rifle.png
 Caldwell Pax,100,1,Medium,Rank 10,TRUE,pistol.png
 Caldwell Pax Claw,125,1,Medium,Caldwell Pax,TRUE,pistol.png
+Caldwell Pax (Incendiary),160,1,Incendiary,Rank 10,TRUE,pistol.png
+Caldwell Pax Claw (Incendiary),185,1,Incendiary,Caldwell Pax,TRUE,pistol.png
+Caldwell Pax (Dumdum),190,1,Dumdum,Rank 10,TRUE,pistol.png
+Caldwell Pax Claw (Dumdum),215,1,Dumdum,Caldwell Pax,TRUE,pistol.png
 Nagant M1895 Officer,66,1,Compact,Rank 12,TRUE,pistol.png
 Nagant M1895 Officer Brawler,80,1,Compact,Nagant M1895 Officer,TRUE,pistol.png
 Nagant M1895 Officer Carbine,155,3,Compact,Nagant M1895 Officer Brawler,FALSE,carbine.png
 Nagant M1895 Officer Carbine Deadeye,211,3,Compact,Nagant M1895 Officer Carbine,FALSE,carbine.png
+Nagant M1895 Officer (Poison),91,1,Poison,Rank 12,TRUE,pistol.png
+Nagant M1895 Officer Brawler (Poison),105,1,Poison,Nagant M1895 Officer,TRUE,pistol.png
+Nagant M1895 Officer Carbine (Poison),180,3,Poison,Nagant M1895 Officer Brawler,FALSE,carbine.png
+Nagant M1895 Officer Carbine Deadeye (Poison),236,3,Poison,Nagant M1895 Officer Carbine,FALSE,carbine.png
+Nagant M1895 Officer (High Velocity),156,1,High Velocity,Rank 12,TRUE,pistol.png
+Nagant M1895 Officer Brawler (High Velocity),170,1,High Velocity,Nagant M1895 Officer,TRUE,pistol.png
+Nagant M1895 Officer Carbine (High Velocity),235,3,High Velocity,Nagant M1895 Officer Brawler,FALSE,carbine.png
+Nagant M1895 Officer Carbine Deadeye (High Velocity),301,3,High Velocity,Nagant M1895 Officer Carbine,FALSE,carbine.png
 Martini-Henry IC1,122,3,Long,Rank 16,FALSE,rifle.png
 Martini-Henry IC1 Deadeye,145,3,Long,Martini-Henry IC1,FALSE,rifle.png
 Martini-Henry IC1 Riposte,164,3,Long,Martini-Henry IC1 Deadeye,FALSE,rifle.png
 Martini-Henry IC1 Marksman,173,3,Long,Martini-Henry IC1 Riposte,FALSE,rifle.png
+Martini-Henry IC1 (Incendiary),192,3,Incendiary,Rank 16,FALSE,rifle.png
+Martini-Henry IC1 Deadeye (Incendiary),215,3,Incendiary,Martini-Henry IC1,FALSE,rifle.png
+Martini-Henry IC1 Riposte (Incendiary),234,3,Incendiary,Martini-Henry IC1 Deadeye,FALSE,rifle.png
+Martini-Henry IC1 Marksman (Incendiary),243,3,Incendiary,Martini-Henry IC1 Riposte,FALSE,rifle.png
+Martini-Henry IC1 (Full Metal Jacket),207,3,Full Metal Jacket,Rank 16,FALSE,rifle.png
+Martini-Henry IC1 Deadeye (Full Metal Jacket),230,3,Full Metal Jacket,Martini-Henry IC1,FALSE,rifle.png
+Martini-Henry IC1 Riposte (Full Metal Jacket),249,3,Full Metal Jacket,Martini-Henry IC1 Deadeye,FALSE,rifle.png
+Martini-Henry IC1 Marksman (Full Metal Jacket),258,3,Full Metal Jacket,Martini-Henry IC1 Riposte,FALSE,rifle.png
+Martini-Henry IC1 (Explosive),242,3,Explosive,Rank 16,FALSE,rifle.png
+Martini-Henry IC1 Deadeye (Explosive),265,3,Explosive,Martini-Henry IC1,FALSE,rifle.png
+Martini-Henry IC1 Riposte (Explosive),284,3,Explosive,Martini-Henry IC1 Deadeye,FALSE,rifle.png
+Martini-Henry IC1 Marksman (Explosive),293,3,Explosive,Martini-Henry IC1 Riposte,FALSE,rifle.png
 Caldwell Rival 78,100,3,Shotgun,Rank 18,FALSE,shotgun.png
 Caldwell Rival 78 Handcannon,85,2,Shotgun,Caldwell Rival 78,FALSE,shotgun-m.png
+Caldwell Rival 78 (Flechette),145,3,Flechette,Rank 18,FALSE,shotgun.png
+Caldwell Rival 78 Handcannon (Flechette),130,2,Flechette,Caldwell Rival 78,FALSE,shotgun-m.png
+Caldwell Rival 78 (Slug),250,3,Slug,Rank 18,FALSE,shotgun.png
+Caldwell Rival 78 Handcannon (Slug),235,2,Slug,Caldwell Rival 78,FALSE,shotgun-m.png
 Caldwell Conversion Pistol,26,1,Compact,Rank 22,TRUE,pistol.png
 Caldwell Conversion Chain Pistol,50,1,Compact,Caldwell Conversion Pistol,TRUE,pistol.png
+Caldwell Conversion Pistol (Dumdum),86,1,Dumdum,Rank 22,TRUE,pistol.png
+Caldwell Conversion Chain Pistol (Dumdum),110,1,Dumdum,Caldwell Conversion Pistol,TRUE,pistol.png
+Caldwell Conversion Pistol (Full Metal Jacket),86,1,Full Metal Jacket,Rank 22,TRUE,pistol.png
+Caldwell Conversion Chain Pistol (Full Metal Jacket),110,1,Full Metal Jacket,Caldwell Conversion Pistol,TRUE,pistol.png
 Caldwell Conversion Uppercut,275,1,Long,Caldwell Conversion Chain Pistol,TRUE,pistol.png
+Caldwell Conversion Uppercut (Incendiary),345,1,Incendiary,Caldwell Conversion Chain Pistol,TRUE,pistol.png
 Winfield M1873,75,3,Compact,Rank 20,FALSE,rifle.png
 Winfield M1873 Aperture,80,3,Compact,Winfield M1873,FALSE,rifle.png
 Winfield M1873 Talon,100,3,Compact,Winfield M1873 Aperture,FALSE,rifle.png
 Winfield M1873 Swift,128,3,Compact,Winfield M1873 Talon,FALSE,rifle.png
 Winfield M1873 Musket Bayonet,137,3,Compact,Winfield M1873 Swift,FALSE,rifle.png
+Winfield M1873 (Incendiary),125,3,Incendiary,Rank 20,FALSE,rifle.png
+Winfield M1873 Aperture (Incendiary),130,3,Incendiary,Winfield M1873,FALSE,rifle.png
+Winfield M1873 Talon (Incendiary),150,3,Incendiary,Winfield M1873 Aperture,FALSE,rifle.png
+Winfield M1873 Swift (Incendiary),178,3,Incendiary,Winfield M1873 Talon,FALSE,rifle.png
+Winfield M1873 Musket Bayonet (Incendiary),187,3,Incendiary,Winfield M1873 Swift,FALSE,rifle.png
+Winfield M1873 (High Velocity),165,3,Compact,Rank 20,FALSE,rifle.png
+Winfield M1873 Aperture (High Velocity),170,3,Compact,Winfield M1873,FALSE,rifle.png
+Winfield M1873 Talon (High Velocity),190,3,Compact,Winfield M1873 Aperture,FALSE,rifle.png
+Winfield M1873 Swift (High Velocity),218,3,Compact,Winfield M1873 Talon,FALSE,rifle.png
+Winfield M1873 Musket Bayonet (High Velocity),227,3,Compact,Winfield M1873 Swift,FALSE,rifle.png
 Machete,18,1,No,Rank 24,FALSE,melee.png
 Sparks LRR,130,3,Long,Rank 26,FALSE,rifle.png
 Sparks LRR Silencer,150,3,Long,Sparks LRR,FALSE,rifle.png
 Sparks LRR Sniper,199,3,Long,Sparks LRR Silencer,FALSE,rifle.png
+Sparks LRR (Incendiary),200,3,Incendiary,Rank 26,FALSE,rifle.png
+Sparks LRR Silencer (Incendiary),220,3,Incendiary,Sparks LRR,FALSE,rifle.png
+Sparks LRR Sniper (Incendiary),269,3,Incendiary,Sparks LRR Silencer,FALSE,rifle.png
+Sparks LRR (Poison),190,3,Poison,Rank 26,FALSE,rifle.png
+Sparks LRR Silencer (Poison),210,3,Poison,Sparks LRR,FALSE,rifle.png
+Sparks LRR Sniper (Poison),259,3,Poison,Sparks LRR Silencer,FALSE,rifle.png
 Bornheim No 3,201,1,Compact,Rank 30,TRUE,pistol.png
 Bornheim No 3 Extended,306,1,Compact,Bornheim No 3,TRUE,pistol.png
 Bornheim No 3 Match,224,2,Compact,Bornheim No 3 Extended,FALSE,precision.png
+Bornheim No 3 (Incendiary),251,1,Incendiary,Rank 30,TRUE,pistol.png
+Bornheim No 3 Extended (Incendiary),356,1,Incendiary,Bornheim No 3,TRUE,pistol.png
+Bornheim No 3 Match (Incendiary),274,2,Incendiary,Bornheim No 3 Extended,FALSE,precision.png
+Bornheim No 3 (High Velocity),291,1,High Velocity,Rank 30,TRUE,pistol.png
+Bornheim No 3 Extended (High Velocity),396,1,High Velocity,Bornheim No 3,TRUE,pistol.png
+Bornheim No 3 Match (High Velocity),314,2,High Velocity,Bornheim No 3 Extended,FALSE,precision.png
 LeMat Mark II Revolver,95,1,Compact,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Incendiary),145,1,Incendiary,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Full Metal Jacket),155,1,Full Metal Jacket,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Starshell),105,1,Starshell,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Dragon Breath),145,1,Dragon Breath,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Slug),245,1,Slug,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Incendiary Starshell),155,1,Incendiary and Starshell,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Incendiary Dragon Breath),195,1,Incendiary and Dragon Breath,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Incendiary Slug),295,1,Incendiary and Slug,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Full Metal Jacket Starshell),165,1,Full Metal Jacket and Starshell,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Full Metal Jacket Dragon Breath),205,1,Full Metal Jacket and Dragon Breath,Rank 46,TRUE,pistol.png
+LeMat Mark II Revolver (Full Metal Jacket Slug),305,1,Full Metal Jacket and Slug,Rank 46,TRUE,pistol.png
 Lebel 1886,397,3,Long,Rank 52,FALSE,rifle.png
 Lebel 1886 Talon,422,3,Long,Lebel 1886,FALSE,rifle.png
 Lebel 1886 Marksman,437,3,Long,Lebel 1886 Talon,FALSE,rifle.png
+Lebel 1886 (Incendiary),467,3,Incendiary,Rank 52,FALSE,rifle.png
+Lebel 1886 Talon (Incendiary),492,3,Incendiary,Lebel 1886,FALSE,rifle.png
+Lebel 1886 Marksman (Incendiary),507,3,Incendiary,Lebel 1886 Talon,FALSE,rifle.png
+Lebel 1886 (Spitzer),617,3,Spitzer,Rank 52,FALSE,rifle.png
+Lebel 1886 Talon (Spitzer),642,3,Spitzer,Lebel 1886,FALSE,rifle.png
+Lebel 1886 Marksman (Spitzer),657,3,Spitzer,Lebel 1886 Talon,FALSE,rifle.png
 Specter 1882,188,3,Shotgun,Rank 58,FALSE,shotgun.png
 Specter 1882 Compact,164,2,Shotgun,Specter 1882,FALSE,shotgun-m.png
 Specter 1882 Bayonet,223,3,Shotgun,Specter 1882 Compact,FALSE,shotgun.png
+Specter 1882 (Flechette),233,3,Flechette,Rank 58,FALSE,shotgun.png
+Specter 1882 Compact (Flechette),209,2,Flechette,Specter 1882,FALSE,shotgun-m.png
+Specter 1882 Bayonet (Flechette),268,3,Flechette,Specter 1882 Compact,FALSE,shotgun.png
+Specter 1882 (Dragon Breath),238,3,Dragon Breath,Rank 58,FALSE,shotgun.png
+Specter 1882 Compact (Dragon Breath),214,2,Dragon Breath,Specter 1882,FALSE,shotgun-m.png
+Specter 1882 Bayonet (Dragon Breath),273,3,Dragon Breath,Specter 1882 Compact,FALSE,shotgun.png
+Specter 1882 (Slug),338,3,Slug,Rank 58,FALSE,shotgun.png
+Specter 1882 Compact (Slug),314,2,Slug,Specter 1882,FALSE,shotgun-m.png
+Specter 1882 Bayonet (Slug),373,3,Slug,Specter 1882 Compact,FALSE,shotgun.png
 Cavalry Saber,60,1,No,Rank 62,FALSE,melee.png
 Dolch 96,750,1,Special,Rank 68,TRUE,pistol.png
 Dolch 96 Precision,790,2,Special,Dolch 96,FALSE,precision.png
@@ -71,6 +206,23 @@ Mosin-Nagant M1891 Obrez Mace,310,2,Long,Mosin-Nagant M1891 Bayonet,FALSE,rifle-
 Mosin-Nagant M1891 Sniper,550,3,Long,Mosin-Nagant M1891 Obrez Mace,FALSE,rifle.png
 Mosin-Nagant M1891 Avtomat,1250,3,Long,Mosin-Nagant M1891 Sniper,FALSE,auto.png
 Mosin-Nagant M1891 Obrez Drum,350,2,Long,Mosin-Nagant M1891 Sniper,FALSE,rifle-m.png
+Mosin-Nagant M1891 (Incendiary),560,3,Incendiary,Rank 72,FALSE,rifle.png
+Mosin-Nagant M1891 Obrez (Incendiary),360,2,Incendiary,Mosin-Nagant M1891,FALSE,rifle-m.png
+Mosin-Nagant M1891 Bayonet (Incendiary),610,3,Incendiary,Mosin-Nagant M1891 Obrez,FALSE,rifle.png
+Mosin-Nagant M1891 Obrez Mace (Incendiary),380,2,Incendiary,Mosin-Nagant M1891 Bayonet,FALSE,rifle-m.png
+Mosin-Nagant M1891 Sniper (Incendiary),620,3,Incendiary,Mosin-Nagant M1891 Obrez Mace,FALSE,rifle.png
+Mosin-Nagant M1891 Avtomat (Incendiary),1320,3,Incendiary,Mosin-Nagant M1891 Sniper,FALSE,auto.png
+Mosin-Nagant M1891 Obrez Drum (Incendiary),420,2,Incendiary,Mosin-Nagant M1891 Sniper,FALSE,rifle-m.png
+Mosin-Nagant M1891  (Spitzer),710,3,Spitzer,Rank 72,FALSE,rifle.png
+Mosin-Nagant M1891 Obrez  (Spitzer),510,2,Spitzer,Mosin-Nagant M1891,FALSE,rifle-m.png
+Mosin-Nagant M1891 Bayonet  (Spitzer),760,3,Spitzer,Mosin-Nagant M1891 Obrez,FALSE,rifle.png
+Mosin-Nagant M1891 Obrez Mace  (Spitzer),530,2,Spitzer,Mosin-Nagant M1891 Bayonet,FALSE,rifle-m.png
+Mosin-Nagant M1891 Sniper  (Spitzer),770,3,Spitzer,Mosin-Nagant M1891 Obrez Mace,FALSE,rifle.png
+Mosin-Nagant M1891 Avtomat  (Spitzer),1470,3,Spitzer,Mosin-Nagant M1891 Sniper,FALSE,auto.png
+Mosin-Nagant M1891 Obrez Drum  (Spitzer),570,2,Spitzer,Mosin-Nagant M1891 Sniper,FALSE,rifle-m.png
 Bomb Lance,199,3,Special,Rank 78,FALSE,lance.png
 Crown n King Auto-5,600,3,Shotgun,Rank 82,FALSE,shotgun.png
+Crown n King Auto-5 (Penny Shot),625,3,Penny Shot,Rank 82,FALSE,shotgun.png
 Nitro Express Rifle,1015,3,Special,Rank 88,FALSE,rifle.png
+Nitro Express Rifle (Dumdum),1165,3,Dumdum,Rank 88,FALSE,rifle.png
+Nitro Express Rifle (Explosive),1215,3,Explosive,Rank 88,FALSE,rifle.png
